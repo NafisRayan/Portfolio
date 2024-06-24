@@ -1,17 +1,17 @@
 <h2 align="center">
-# Portfolio Website
-This repository contains the source code for my personal portfolio website. It showcases my projects, skills, and experiences in a clean and interactive manner.
+Portfolio Website
   <!-- Visit the live site: [nafisrayan.tech](https://nafisrayan.tech) -->
 </h2>
+This repository contains the source code for my personal portfolio website. It showcases my projects, skills, and experiences in a clean and interactive manner.
+</br>
 <div>
   <img alt="Demo" src="./Images/readme-img.png" />
   <img alt="Demo" src="./Images/readme-img1.png" />
 </div>
 
 <br/>
-## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+## Built With
 
 This project was built using these technologies.
 
