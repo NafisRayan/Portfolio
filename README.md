@@ -3,12 +3,6 @@ Portfolio Website
   <!-- Visit the live site: [nafisrayan.tech](https://nafisrayan.tech) -->
 </h2>
 This repository contains the source code for my personal portfolio website. It showcases my projects, skills, and experiences in a clean and interactive manner.
-</br>
-<div>
-  <img alt="Demo" src="./Images/readme-img.png" />
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
-
 <br/>
 
 ## Built With
@@ -38,6 +32,11 @@ This project was built using these technologies.
 - **About Me**: A section dedicated to providing more details about myself and my professional background.
 - **Resume**: An embedded resume showcasing my educational qualifications and work experience.
 - **Contact Information**: Easy-to-find contact information for reaching out.
+
+<div>
+  <img alt="Demo" src="./Images/readme-img.png" />
+  <img alt="Demo" src="./Images/readme-img1.png" />
+</div>
 
 
 ## Getting Started
