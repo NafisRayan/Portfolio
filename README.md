@@ -1,24 +1,14 @@
 <h2 align="center">
-  Portfolio Website<br/>
+# Portfolio Website
+This repository contains the source code for my personal portfolio website. It showcases my projects, skills, and experiences in a clean and interactive manner.
   <!-- Visit the live site: [nafisrayan.tech](https://nafisrayan.tech) -->
 </h2>
-<div align="center">
+<div>
+  <img alt="Demo" src="./Images/readme-img.png" />
   <img alt="Demo" src="./Images/readme-img1.png" />
 </div>
 
 <br/>
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/NafisRayan/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/NafisRayan/Portfolio/issues">Request Feature</a>
-</h3>
-
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [NafisRayan](https://github.com/NafisRayan/Portfolio). Thanks!
-
 ## Built With
 
 My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
