@@ -45,6 +45,17 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={handControl}
+              isBlog={false}
+              title="ThreeJS Hand Control Panel"
+              description="The project is designed to create an interactive 3D visualization of hand landmarks detected in real-time from a video stream, using the MediaPipe Hands model and THREE.js for 3D rendering. It dynamically updates the positions of 3D objects representing hand landmarks based on the detected landmarks, adjusts the camera's position to follow the hand movements, and includes logic to recognize specific hand gestures. The visualization is rendered in a web environment, allowing users to see the hand landmarks in 3D space as they move their hands in front of the camera."
+              ghLink="https://github.com/NafisRayan/ThreeJS-Hand-Control-Panel"
+              demoLink="https://nafisrayan.github.io/ThreeJS-Hand-Control-Panel/"
+            />
+          </Col>
+                
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={chatCom}
               isBlog={false}
               title="Chat Application: A Flask and Socket.IO-Based Chat Platform"
@@ -64,18 +75,7 @@ function Projects() {
               demoLink="https://github.com/NafisRayan/YT-Downloader"
             />
           </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={handControl}
-              isBlog={false}
-              title="ThreeJS Hand Control Panel"
-              description="The project is designed to create an interactive 3D visualization of hand landmarks detected in real-time from a video stream, using the MediaPipe Hands model and THREE.js for 3D rendering. It dynamically updates the positions of 3D objects representing hand landmarks based on the detected landmarks, adjusts the camera's position to follow the hand movements, and includes logic to recognize specific hand gestures. The visualization is rendered in a web environment, allowing users to see the hand landmarks in 3D space as they move their hands in front of the camera."
-              ghLink="https://github.com/NafisRayan/ThreeJS-Hand-Control-Panel"
-              demoLink="https://nafisrayan.github.io/ThreeJS-Hand-Control-Panel/"
-            />
-          </Col>
-
+                
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={yoloEYE}
